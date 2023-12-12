@@ -3,9 +3,7 @@
 ![Artboard 1](https://github.com/cerenss/cerenss/assets/73648921/b5dbc993-336c-498b-a79f-21e6c8ec9e2b)
 
 
-I'm **designer** and **developer**. I am new to the development field and still learning! 
-I am a graduate architect 📐 (root of my design skills) and a student of tech 🖥️. 
-I aim to bring design and development together in the most **creative** and **fun** ways ⚡   
+I'm **designer** and **developer**. I am new to the development field and still learning! I am a graduate architect 📐 (root of my design skills) and a student of tech 🖥️. I aim to bring design and development together in the most **creative** and **fun** ways ⚡   
 
 
 🌱 I’m currently a Master's student at Istanbul Technical University, Game and Interaction Technologies 🎮
