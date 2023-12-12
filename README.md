@@ -4,7 +4,8 @@
 
 
 I'm **designer** and **developer**. I am new to the development field and still learning! 
-I am a graduate architect 📐 (root of my design skills) and a student of tech 🖥️. I aim to bring design and development together in the most **creative** and **fun** ways ⚡   
+I am a graduate architect 📐 (root of my design skills) and a student of tech 🖥️. 
+I aim to bring design and development together in the most **creative** and **fun** ways ⚡   
 
 
 🌱 I’m currently a Master's student at Istanbul Technical University, Game and Interaction Technologies 🎮
